@@ -1,0 +1,11 @@
+.form .form-control {
+  padding-bottom: 2rem;
+}
+.form-control input {
+  width: 50%;
+  height: 2.5rem;
+  padding: 0 1rem;
+}
+.button {
+  padding: 1rem 2rem;
+}
