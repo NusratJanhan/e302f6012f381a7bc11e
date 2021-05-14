@@ -1,3 +1,6 @@
+.form {
+  text-align: center;
+}
 .form .form-control {
   padding-bottom: 2rem;
 }

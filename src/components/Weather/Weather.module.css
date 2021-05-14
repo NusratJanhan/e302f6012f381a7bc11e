@@ -1,0 +1,30 @@
+.country h1 {
+  text-align: center;
+}
+.sections {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 20px;
+  margin-right: 1rem;
+}
+.flag {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.flag img {
+  width: 70px;
+  height: auto;
+}
+.button {
+  text-align: center;
+  padding-top: 2rem;
+}
+.button button {
+  padding: 1rem 2rem;
+}

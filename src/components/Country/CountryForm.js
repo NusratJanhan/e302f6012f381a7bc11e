@@ -8,7 +8,7 @@ const CountryForm = (props) => {
   const submitHandler = (event) => {
     event.preventDefault();
     const country = countryRef.current.value;
-    props.onSubmitCountry(country);
+    // props.onSubmitCountry(country);
     history.push(`/country/${country}`);
   };
 
